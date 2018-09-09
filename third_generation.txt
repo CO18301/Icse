@@ -1,0 +1,39 @@
+3rd generation of computers
+The 3rd generation of computers were developed in 1965.
+This generation of computers lasted for 6 years after which it was replaced in 1971 by the next generation of computers which is the 4th generation of computers.
+The 3rd generation of computers work on Integrated Circuits(IC) which has many transistors, resistors, and capacitors along with the associated circuitry. The ICs were developed by Jack Kilby in 1958.
+The main features of the 3rd generation of computers are:
+	Integrated circuits instead of individual transistors used in the previous two generations.
+	Supported high level programming languages.
+	Make use of semi-conductor memory.
+	Use magnetic storage devices.
+	Use monitors and line printers.
+	Uses operating system as user interface to computing.
+The advantages of 3rd generation of computers over its previous generation :
+ 	More reliable in comparison to previous generation.
+ 	Smaller size
+ 	Generated less heat
+ 	Faster
+ 	Lesser maintenance
+ 	Consumed lesser electricity
+ 	Improved faster operations and more dependable output
+ 	 Less expensive than 2nd generation computers
+The 4th generation of computers was developed in 1971 and it replaced the 3rd generation of computers due to the following advantages of the 4th over the 3rd generation of computers:
+	More reliable than the previous generation
+	Performs calculations faster than the 3rd generation of computers
+	Consumes less power than the previous generation of    computers
+	No air conditioning required as in the case of 3rd generation of computers
+	Lower cost
+	Used for more general purposes
+	Supports more number of high languages
+	Low maintenance cost
+	Portable
+	Generates lesser heat
+Thus, the 3rd generation of computers were replaced by the 4th generation of computers.
+Some examples of the 3rd generation of computers:
+	IBM-360 series
+	Honeywell-6000 series
+	PDP (Personal Data Processor)
+	IBM-370/168
+	TDC-316
+
